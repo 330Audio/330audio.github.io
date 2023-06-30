@@ -18,10 +18,6 @@ body {
 
 h1 {
   text-align: left;
-  font-family: serif;
-  font-weight: normal;
-  text-transform: uppercase;
-  margin-top: 30px;
 }
 
 h2 {
