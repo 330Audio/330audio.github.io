@@ -1,11 +1,3 @@
-<html>
-
-<head>
-<meta charset="utf8">
-<title>330 Audio</title>
-<link href="https://fonts.cdnfonts.com/css/d-din" rel="stylesheet">
-                
-
 <style>
 body {
   background-color: #FFFFFF;
