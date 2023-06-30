@@ -1,22 +1,27 @@
-<style>
-body {
+
+<!DOCTYPE html>
+<html>
+  <head>
+<meta charset="utf8">
+<title>330 Audio</title>
+<link href="https://fonts.cdnfonts.com/css/d-din" rel="stylesheet">
+                <style>
+                  body {
   background-color: #FFFFFF;
   margin: 0 15%;
   font-family: 'D-DIN Exp', sans-serif;
   }
-
-h1 {
+                  h1 {
   text-align: left;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  margin-top: 30px;
 }
-
-h2 {
+                  h2 {
   color: #d1633c;
   font-size: 1em;
 }
-
-</style>
-
-</style>
 
 </style>
 </head>
